@@ -60,28 +60,31 @@ LORA_MODELS=(
     "https://huggingface.co/latent-consistency/lcm-lora-sdv1-5/resolve/main/pytorch_lora_weights.safetensors"
     
     #add more details https://civitai.com/models/82098/add-more-details-detail-enhancer-tweaker-lora
-    "https://civitai.com/api/download/models/87153?type=Model&format=SafeTensor"
+    #"https://civitai.com/api/download/models/87153?type=Model&format=SafeTensor"
     
     # epi_noiseoffset https://civitai.com/models/13941/epinoiseoffset
-    "https://civitai.com/api/download/models/16576?type=Model&format=SafeTensor&size=full&fp=fp16"
+    #"https://civitai.com/api/download/models/16576?type=Model&format=SafeTensor&size=full&fp=fp16"
     
     #Ronald McDonald https://civitai.com/models/165085/ronald-mcdonald trigger: ronaldmcdonald clown red hair
-    "https://civitai.com/api/download/models/185865?type=Model&format=SafeTensor"
+    #"https://civitai.com/api/download/models/185865?type=Model&format=SafeTensor"
     
     #Better Watercolor painting https://civitai.com/models/79715/better-watercolor-painting-in-the-style-of-iris-compiet trigger:IrisCompiet
-    "https://civitai.com/api/download/models/84535?type=Model&format=SafeTensor"
+    #"https://civitai.com/api/download/models/84535?type=Model&format=SafeTensor"
     
     #KIDS ILLUSTRATION https://civitai.com/models/60724/kids-illustration trigger: NONE
-    "https://civitai.com/api/download/models/67980?type=Model&format=SafeTensor"
+    #"https://civitai.com/api/download/models/67980?type=Model&format=SafeTensor"
+
+    #sephiroth
+    "https://civitai.com/api/download/models/91014?type=Model&format=SafeTensor"
 
     #Comically Large Spoon https://civitai.com/models/93222/comically-large-spoon-or-concept-lora trigger:ComicallyLargeSpoon
-    "https://civitai.com/api/download/models/99396?type=Model&format=SafeTensor"
+    #"https://civitai.com/api/download/models/99396?type=Model&format=SafeTensor"
 
     #Art Nouveau Style https://civitai.com/models/182980/art-nouveau-style trigger:art nouveau, alphonse mucha, ivan bilibin
-    "https://civitai.com/api/download/models/875868?type=Model&format=SafeTensor"
+    #"https://civitai.com/api/download/models/875868?type=Model&format=SafeTensor"
 
     #muppet mania https://civitai.com/models/68262/muppetmaniaai-konyconi trigger:MuppetManiaAI
-    "https://civitai.com/api/download/models/72944?type=Model&format=SafeTensor"
+    #"https://civitai.com/api/download/models/72944?type=Model&format=SafeTensor"
 )
 
 VAE_MODELS=(
