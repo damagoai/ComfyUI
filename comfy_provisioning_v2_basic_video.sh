@@ -77,6 +77,9 @@ LORA_MODELS=(
     #sephiroth
     "https://civitai.com/api/download/models/91014?type=Model&format=SafeTensor"
 
+    #celestial skin
+    "https://civitai.com/api/download/models/182397?type=Model&format=SafeTensor"
+
     #Comically Large Spoon https://civitai.com/models/93222/comically-large-spoon-or-concept-lora trigger:ComicallyLargeSpoon
     #"https://civitai.com/api/download/models/99396?type=Model&format=SafeTensor"
 
