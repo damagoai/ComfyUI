@@ -44,7 +44,7 @@ CHECKPOINT_MODELS=(
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
     #toonyou
-    "https://civitai.com/api/download/models/125771?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    #"https://civitai.com/api/download/models/125771?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #dreamshaper8
     "https://civitai.com/api/download/models/128713?type=Model&format=SafeTensor&size=pruned&fp=fp16"
 
@@ -75,10 +75,16 @@ LORA_MODELS=(
     #"https://civitai.com/api/download/models/67980?type=Model&format=SafeTensor"
 
     #sephiroth
-    "https://civitai.com/api/download/models/91014?type=Model&format=SafeTensor"
+    #"https://civitai.com/api/download/models/91014?type=Model&format=SafeTensor"
 
     #celestial skin
-    "https://civitai.com/api/download/models/182397?type=Model&format=SafeTensor"
+    #"https://civitai.com/api/download/models/182397?type=Model&format=SafeTensor"
+
+    #extremely detailed
+    "https://civitai.com/api/download/models/383563?type=Model&format=SafeTensor"
+
+    #jellyfish forest
+    "https://civitai.com/api/download/models/114163?type=Model&format=SafeTensor"
 
     #Comically Large Spoon https://civitai.com/models/93222/comically-large-spoon-or-concept-lora trigger:ComicallyLargeSpoon
     #"https://civitai.com/api/download/models/99396?type=Model&format=SafeTensor"
