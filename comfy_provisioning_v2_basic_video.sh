@@ -78,13 +78,10 @@ LORA_MODELS=(
     #"https://civitai.com/api/download/models/91014?type=Model&format=SafeTensor"
 
     #celestial skin
-    #"https://civitai.com/api/download/models/182397?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/182397?type=Model&format=SafeTensor"
 
-    #extremely detailed
-    "https://civitai.com/api/download/models/383563?type=Model&format=SafeTensor"
-
-    #jellyfish forest
-    "https://civitai.com/api/download/models/114163?type=Model&format=SafeTensor"
+    #Anime tarot
+    "https://civitai.com/api/download/models/28609?type=Model&format=SafeTensor&size=full&fp=fp16"
 )
 
 VAE_MODELS=(
