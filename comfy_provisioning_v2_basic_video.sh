@@ -47,8 +47,6 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/125771?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #dreamshaper8
     "https://civitai.com/api/download/models/128713?type=Model&format=SafeTensor&size=pruned&fp=fp16"
-    #ghostmix
-    "https://civitai.com/api/download/models/76907?type=Model&format=SafeTensor&size=pruned&fp=fp16"
 
 )
 
@@ -71,19 +69,10 @@ LORA_MODELS=(
     #"https://civitai.com/api/download/models/185865?type=Model&format=SafeTensor"
     
     #Better Watercolor painting https://civitai.com/models/79715/better-watercolor-painting-in-the-style-of-iris-compiet trigger:IrisCompiet
-    #"https://civitai.com/api/download/models/84535?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/84535?type=Model&format=SafeTensor"
     
     #KIDS ILLUSTRATION https://civitai.com/models/60724/kids-illustration trigger: NONE
     #"https://civitai.com/api/download/models/67980?type=Model&format=SafeTensor"
-
-    #sephiroth
-    #"https://civitai.com/api/download/models/91014?type=Model&format=SafeTensor"
-
-    #celestial skin
-    "https://civitai.com/api/download/models/182397?type=Model&format=SafeTensor"
-
-    #Anime tarot
-    "https://civitai.com/api/download/models/28609?type=Model&format=SafeTensor&size=full&fp=fp16"
 )
 
 VAE_MODELS=(
@@ -112,6 +101,7 @@ CONTROLNET_MODELS=(
     #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/control_scribble-fp16.safetensors"
     #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/control_seg-fp16.safetensors"
     "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/resolve/main/control_v11f1e_sd15_tile_fp16.safetensors"
+    "https://huggingface.co/TheMistoAI/MistoLine/resolve/main/mistoLine_fp16.safetensors"
     
     #t2i
     #"https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/t2i-adapter_diffusers_xl_openpose.safetensors"
